@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='students.xslt'?>
+<students xmlns:student="urn:students">
+<student>
+  <name>Sam Jones</name>
+  <gender>male</gender>
+  <birthDate>1987-05-30</birthDate>
+  <phone>0889526587</phone>
+  <email>sam@gmail.com</email>
+  <course>CSS</course>
+  <specialty>Front-end Developer</specialty>
+  <faculty-number>2356</faculty-number>
+  <exams>
+    <exam>
+      <name>HTML Basics</name>
+      <tutor>Doncho Minkov</tutor>
+      <score>70</score>
+    </exam>
+  </exams>
+</student>
+<student>
+  <name>Mike Miers</name>
+  <gender>male</gender>
+  <birthDate>1972-10-30</birthDate>
+  <phone>0889111111</phone>
+  <email>mike@gmail.com</email>
+  <course>JS</course>
+  <specialty>Front-end Developer</specialty>
+  <faculty-number>4561</faculty-number>
+  <exams>
+    <exam>
+      <name>HTML Basics</name>
+      <tutor>Doncho Minkov</tutor>
+      <score>50</score>
+    </exam>
+    <exam>
+      <name>CSS</name>
+      <tutor>Doncho Minkov</tutor>
+      <score>60</score>
+    </exam>
+    <exam>
+      <name>Mathematics</name>
+      <tutor>Mr. Dave</tutor>
+      <score>55</score>
+    </exam>
+  </exams>
+</student>
+  <student>
+    <name>Mila Anderson</name>
+    <gender>female</gender>
+    <birthDate>1990-06-07</birthDate>
+    <phone>0888325687</phone>
+    <email>mila@gmail.com</email>
+    <course>C#</course>
+    <specialty>C# Developer</specialty>
+    <faculty-number>7895</faculty-number>
+    <exams>
+      <exam>
+        <name>HTML Basics</name>
+        <tutor>Doncho Minkov</tutor>
+        <score>75</score>
+      </exam>
+      <exam>
+        <name>JS OOP</name>
+        <tutor>Pain Smith</tutor>
+        <score>90</score>
+      </exam>
+    </exams>
+  </student>
+</students>
