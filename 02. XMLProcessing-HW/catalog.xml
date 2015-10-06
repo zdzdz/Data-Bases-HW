@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="catalog.xsl"?>
+<catalog>
+  <album>
+    <name>MADE</name>
+    <artist>Big Bang</artist>
+    <year>2015</year>
+    <producer>Big Bang</producer>
+    <price>20</price>
+    <song>
+      <title>Loser</title>
+      <duration>3:39</duration>
+    </song>
+    <song>
+      <title>Bang Bang Bang</title>
+      <duration>3:40</duration>
+    </song>
+    <song>
+      <title>Let's Not Fall In Love</title>
+      <duration>3:32</duration>
+    </song>
+  </album>
+  <album>
+    <name>The Red</name>
+    <artist>Red Velvet</artist>
+    <year>2015</year>
+    <producer>Lee Soo-man</producer>
+    <price>22</price>
+    <song>
+      <title>Dumb Dumb</title>
+      <duration>3:23</duration>
+    </song>
+    <song>
+      <title>Huff n Puff</title>
+      <duration>3:01</duration>
+    </song>
+    <song>
+      <title>Red Dress</title>
+      <duration>3:02</duration>
+    </song>
+  </album>
+  <album>
+    <name>DIVISION</name>
+    <artist>The Gazette</artist>
+    <year>2012</year>
+    <producer>Sony Music Japan</producer>
+    <price>15.00</price>
+    <song>
+      <title>Ibitsu</title>
+      <duration>3:59</duration>
+    </song>
+    <song>
+      <title>Kago no Sanagi</title>
+      <duration>4:38</duration>
+    </song>
+	<song>
+      <title>Kagefumi</title>
+      <duration>4:21</duration>
+    </song>
+  </album>
+  <album>
+    <name>The Digitalian</name>
+    <artist>Arashi</artist>
+    <year>2014</year>
+    <producer>Julie K.</producer>
+    <price>18</price>
+    <song>
+      <title>Zero-G</title>
+      <duration>3:57</duration>
+    </song>
+    <song>
+      <title>Guts!</title>
+      <duration>4:55</duration>
+    </song>
+    <song>
+      <title>Daremo Shiranai</title>
+      <duration>4:04</duration>
+    </song>
+  </album>
+  <album>
+    <name>A Kind Of Magic</name>
+    <artist>Queen</artist>
+    <year>1986</year>
+    <producer>Queen</producer>
+    <price>14</price>
+    <song>
+      <title>A Kind of Magic</title>
+      <duration>4:24</duration>
+    </song>
+    <song>
+      <title>Who Wants to Live Forever</title>
+      <duration>5:15</duration>
+    </song>
+    <song>
+      <title>Princes of the Universe</title>
+      <duration>3:23</duration>
+    </song>
+  </album>
+</catalog>

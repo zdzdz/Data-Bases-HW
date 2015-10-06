@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="catalog.xsl"?>
+<catalog>
+  <album>
+    <name>Best of Madonna</name>
+    <artist>Madonna</artist>
+    <year>1970</year>
+    <producer>Madonna's dad</producer>
+    <price>20.50</price>
+    <song>
+      <title>La isla bonita</title>
+      <duration>3:56</duration>
+    </song>
+    <song>
+      <title>Frozen</title>
+      <duration>4:40</duration>
+    </song>
+    <song>
+      <title>Vogue</title>
+      <duration>5:33</duration>
+      <album>
+        <song>
+          <title>Frozen</title>
+          <duration>4:40</duration>
+        </song>
+        <song>
+          <title>Vogue</title>
+          <duration>5:33</duration>
+        </song>
+      </album>
+    </song>
+  </album>
+  <album>
+    <song>
+      <name>Meteora</name>
+      <artist>Linkin Park</artist>
+      <year>2012</year>
+      <producer>Linkin Street</producer>
+      <price>15.00</price>
+      <title>Castle of glass</title>
+      <duration>3:15</duration>
+    </song>
+    <song>
+      <name>Meteora</name>
+      <artist>Linkin Park</artist>
+      <year>2012</year>
+      <producer>Linkin Street</producer>
+      <price>15.00</price>
+      <title>Bleed it out</title>
+      <duration>4:21</duration>
+    </song>
+  </album>
+</catalog>
