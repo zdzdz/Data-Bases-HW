@@ -61,7 +61,7 @@
             {
                 ["Provider"] = "Microsoft.ACE.OLEDB.12.0",
                 ["Extended Properties"] = "Excel 12.0 XML",
-                ["Data Source"] = "../../../scores.xlsx"
+                ["Data Source"] = "../../scores.xlsx"
             };
 
             // XLS - Excel 2003 and Older
